@@ -2,7 +2,7 @@ fx_version 'cerulean'
 game 'gta5'
 
 name 'qb-livery'
-author 'ChatGPT'
+author 'Braiden Marshall'
 description 'Simple /livery command to change current vehicle livery (supports native liveries and mod type 48).'
 version '1.0.0'
 
